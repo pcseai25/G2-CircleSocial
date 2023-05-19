@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/assets/logo.png" alt="circle-logo" width="10%" />
+    <img src="https://github.com/akshatcoder-hash/G2-CircleSocial/assets/69577224/271c733a-2347-4849-9ad2-98d4b6fb0782" alt="circle-logo" width="10%" />
     <h1 align="center">circle 🌐</h1>
     <h3 align="center">crowing With the Community</h3>
 </p>
