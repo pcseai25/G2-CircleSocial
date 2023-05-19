@@ -14,7 +14,7 @@ Circle offers a decentralized alternative to centralized social media platforms,
 
 i aim to complete this project alongwith basic frontend in upcoming 5 days. here is the proposed task list:
 
-- [ ] designing ui/ux
+- [x] designing ui/ux
 - [ ] creating frontend
 - [ ] transtack
 - [ ] graphql database
