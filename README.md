@@ -1,6 +1,7 @@
 # Circle - Decentralized Social Media Platform
 
-# Vision - Circle is a decentralized social media platform that prioritizes user privacy and empowers users to connect with others who share their interests and values. Built on the Lens Protocol, Circle offers a censorship-resistant publishing environment that enables users to express themselves freely and securely.
+# Vision 
+- Circle is a decentralized social media platform that prioritizes user privacy and empowers users to connect with others who share their interests and values. Built on the Lens Protocol, Circle offers a censorship-resistant publishing environment that enables users to express themselves freely and securely.
 
 ## Table of Contents
 
@@ -15,20 +16,12 @@
 9. [Security and Privacy](#security-and-privacy)
 10. [Future Scope](#future-scope) 
 11. [Conclusion](#conclusion)
-12. [Roadmap](#roadmap)
-13. [Risks and Mitigation](#risks-and-mitigation)
-
-15. [Governance Model](#governance-model)
-16. [Monetization Strategy](#monetization-strategy)
-
 
 ## 1. Introduction
 
 The Circle project aims to revolutionize the social media landscape by creating a decentralized social media platform that empowers users, prioritizes their privacy and data ownership, and upholds the fundamental principle of freedom of speech. We envision a platform that fosters strong communities, encourages meaningful connections, and provides a censorship-resistant environment for users to freely express themselves.
 
 By leveraging decentralized technologies such as blockchain and peer-to-peer networks, Circle ensures that no single authority can control or manipulate the flow of information. We prioritize user privacy, providing individuals with full ownership and control over their data and the ability to choose the level of privacy they desire. Circle's commitment to privacy extends beyond the platform itself; we pledge to never exploit user data for targeted advertising or surveillance purposes.
-
-Through Circle, we seek to empower individuals from all walks of life to have a voice, connect with like-minded individuals, and contribute to a diverse and inclusive online community. We understand the importance of nurturing an environment that celebrates the richness of different perspectives, cultures, and ideas. Circle's innovative features and user-centric design will facilitate meaningful interactions, content discovery, and the formation of genuine connections.
 
 ## 2. Vision Statement
 
