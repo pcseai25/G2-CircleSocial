@@ -5,17 +5,17 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Vision Statement](#vision-statement)
-3. [Objectives](#objectives)
-4. [Background Survey](#background-survey)
-5. [Target Audience](#target-audience)
-6. [Key Features](#key-features)
-7. [Technology Stack](#technology-stack)
-8. [User Experience](#user-experience)
-9. [Security and Privacy](#security-and-privacy)
-10. [Future Scope](#future-scope) 
-11. [Conclusion](#conclusion)
+1. [Introduction](#1-introduction)
+2. [Vision Statement](#2-vision-statement)
+3. [Objectives](#3-objectives)
+4. [Background Survey](#4-background-survey)
+5. [Target Audience](#5-target-audience)
+6. [Key Features](#6-key-features)
+7. [Technology Stack](#7-technology-stack)
+8. [User Experience](#8-user-experience)
+9. [Security and Privacy](#9-security-and-privacy)
+10. [Future Scope](#10-future-scope)
+11. [Conclusion](#11-conclusion)
 
 ## 1. Introduction
 
